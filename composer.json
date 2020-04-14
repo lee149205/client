@@ -1,5 +1,5 @@
 {
-    "name": "leetuanchinh/client",
+    "name": "zira/client",
     "require": {
         "lcobucci/jwt": "^3.3",
         "laravel/framework": "^6.2",
