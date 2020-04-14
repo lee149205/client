@@ -2,8 +2,7 @@
     "name": "leetuanchinh/client",
     "require": {
         "lcobucci/jwt": "^3.3",
-        "laravel/framework": "^6.2",
-        "guzzlehttp/guzzle": "^6.5"
+        "laravel/framework": "^6.2"
     },
     "minimum-stability": "dev",
     "prefer-stable" : true,
