@@ -11,5 +11,8 @@
         "psr-4": {
             "ZiraClient\\": "src/"
         }
-    }
+    },
+    "license": [
+        "BSD-3-Clause"
+    ]
 }
