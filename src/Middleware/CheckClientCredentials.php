@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace ZiraClient\Middleware;
 
 use BadMethodCallException;
 use Closure;
